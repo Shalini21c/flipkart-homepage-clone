@@ -1,5 +1,4 @@
-# flipkart-homepage-clone
-Flipkart product page clone
+# Flipkart-homepage-clone
 
 This is how the page looks!
 
