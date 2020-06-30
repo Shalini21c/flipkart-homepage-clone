@@ -1,3 +1,3 @@
 # flipkart-homepage-clone
 Flipkart product page clone
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Shalini21c/flipkart-homepage-clone/blob/master/Flipkart_Demo%20page.png)
